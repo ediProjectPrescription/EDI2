@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "673937946275",
+    "firebase_url": "https://edi-1-f298e.firebaseio.com",
+    "project_id": "edi-1-f298e",
+    "storage_bucket": "edi-1-f298e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673937946275:android:193bafe1b94e5c2111b116",
+        "android_client_info": {
+          "package_name": "com.example.edi_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673937946275-i8k6f1rg7t4t94ckl1atj2gm0imkisso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXVMqTQ-D04STHwSxcv5sThN9Nr3EWyQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673937946275-i8k6f1rg7t4t94ckl1atj2gm0imkisso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
